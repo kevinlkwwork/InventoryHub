@@ -1,1 +1,2 @@
 # InventoryHub
+InventoryHub is a comprehensive full-stack application that utilizes Blazor for the front-end, while the back-end is powered by Minimal API. Throughout the development process, Microsoft Copilot greatly enahcned productivity by offering code suggestions, helping to debug issues more efficiently, and recommending optimizations for performance and code structure.
